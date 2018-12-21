@@ -1,3 +1,7 @@
+**⚠⚠⚠ Warning: this app has been moved! ⚠⚠⚠**  
+Please use the dedicated new repository at [nextcloud/user_external](https://github.com/nextcloud/user_external).
+
+
 External user authentication
 ============================
 **Authenticate user login against FTP, IMAP or SMB.**
